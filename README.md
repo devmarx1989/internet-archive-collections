@@ -8,6 +8,7 @@ It's meant to serve as a quick reference and a way to share cool digital archive
 ## 🔗 Collections
 
 - [Theory and Society 1986-2008](https://archive.org/details/pub_theory-and-society)
+- [Sociology and Social Research 1916-1992](https://archive.org/details/pub_sociology-and-social-research)
 
 ---
 
