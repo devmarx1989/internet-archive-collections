@@ -7,8 +7,20 @@ It's meant to serve as a quick reference and a way to share cool digital archive
 
 ## 🔗 Collections
 
-- [Theory and Society 1986-2008](https://archive.org/details/pub_theory-and-society)
-- [Sociology and Social Research 1916-1992](https://archive.org/details/pub_sociology-and-social-research)
+- **Theory and Society**  
+  A critical interdisciplinary journal covering sociology, political theory, and cultural analysis.
+
+- **Sociology and Social Research**  
+  A long-running American journal featuring classic and empirical studies in social sciences.
+
+- **Science & Society**  
+  Marxist perspectives on economics, politics, and philosophy; a cornerstone of socialist academic writing.
+
+- **Radical Society**  
+  Formerly *Socialist Review*, this journal blends politics, culture, and radical thought.
+
+- **American Journal of Comparative Law**  
+  A scholarly publication focused on the comparative study of legal systems across the globe.
 
 ---
 
@@ -28,4 +40,3 @@ Feel free to clone, fork, or suggest new additions via issues or PRs!
 
 This repository only links to external content.  
 See Internet Archive's [Terms of Use](https://archive.org/about/terms.php) for details.
-
