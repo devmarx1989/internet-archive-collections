@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-OUTPUT="big-urls.txt"
+OUTPUT="urls"
 : > "$OUTPUT"
 
 # Find every file literally named "urls"
